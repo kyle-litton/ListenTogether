@@ -8,9 +8,9 @@ const AppRouter = () => (
   <BrowserRouter>
     <div>
       <Switch>
-        <Route path="/" component={Home} exact={true}/>
-        <Route path="/start" component={CreateGroup} />
-        <Route path='/group' component={Group} />
+        <Route path= {process.env.PUBLIC_URL + "/"} component={Home} exact={true}/>
+        <Route path= {process.env.PUBLIC_URL + "/start"} component={CreateGroup} />
+        <Route path= {process.env.PUBLIC_URL + '/group'} component={Group} />
       </Switch>
     </div>
   </BrowserRouter>
