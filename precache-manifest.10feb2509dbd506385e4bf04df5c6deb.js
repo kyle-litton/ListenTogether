@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7904af5eb2b41986fed5515a3890c77d",
+    "revision": "fcaf1a225df7e4880a17aadb94ed1520",
     "url": "/ListenTogether/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ListenTogether/static/css/2.627926fe.chunk.css"
   },
   {
-    "revision": "192dbdaf794807b0ccb2",
+    "revision": "a23160d4d5e456494b05",
     "url": "/ListenTogether/static/css/main.35979893.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ListenTogether/static/js/2.de343a17.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "192dbdaf794807b0ccb2",
-    "url": "/ListenTogether/static/js/main.4fac7168.chunk.js"
+    "revision": "a23160d4d5e456494b05",
+    "url": "/ListenTogether/static/js/main.c30a5c15.chunk.js"
   },
   {
     "revision": "98fa736d0343d9dd496a",
