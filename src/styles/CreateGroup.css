@@ -1,0 +1,70 @@
+@font-face{
+    font-family: 'Aromatron-Regular';
+    src: url(../assets/Aromatron-Regular.ttf) format('truetype');
+}
+
+
+.Create{
+  align-items: center;
+  justify-content: center;
+}
+
+.Create-logo {
+  position:absolute;
+  top:0px;
+  height: 35vmin;
+  pointer-events: none;
+}
+
+
+.Create-header{
+    background-color: white;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+
+.Create-p{
+   font-family: 'Aromatron-Regular';
+   align-items: center;
+  justify-content: center;
+   font-size: 30px;
+   color:black;
+}
+
+.Create-form{
+  align-items: center;
+  justify-content: center;
+ }
+
+    .input:focus {
+        outline: none !important;
+        border:3px solid #55e086;
+        border-radius: 5px;
+        
+    }
+
+ .Create-startBtn {
+    background: #1db954;
+    font-family: 'Proxima Nova', Georgia, sans-serif;
+    color: #fff;
+    border: none;
+    border-radius: 40px;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+    width: 150px;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    cursor: pointer;
+    outline: none;
+  }
+  .Create-startBtn:hover{
+    background: #55e086;
+  }
+ 

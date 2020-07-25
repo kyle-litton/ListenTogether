@@ -1,0 +1,50 @@
+@font-face{
+    font-family: 'Aromatron-Regular';
+    src: url(../assets/Aromatron-Regular.ttf) format('truetype');
+}
+
+.now-playing__name {
+    font-size: 32px;
+    margin-bottom: 0.2em;
+    color: black;
+}
+
+.now-playing__artist {
+    margin-bottom: 1em;
+    color: black;
+}
+
+.now-playing__status {
+    margin-bottom: 1em;
+    color: black;
+}
+
+.instructions{
+    font-family: 'Aromatron-Regular';
+    color:black;
+}
+
+.device{
+    margin-left:auto;
+    margin-right:auto;
+    box-shadow: 2px 2px 2px#ccc;
+    width: 5%;
+}
+
+.now-playing__img {
+    float: center;
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+    border:1px solid black;
+    right: 100px;
+    width: 45%;
+    line-height: 0;
+    box-shadow: 8px 8px 2px #ccc;
+}
+
+.now-playing__img img {
+    max-width: 80vmin;
+    width: 100%;
+    
+}
