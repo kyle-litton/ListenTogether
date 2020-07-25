@@ -62,7 +62,6 @@ class Group extends Component{
     componentDidUpdate(){
         // Keep members tracks synced
         if(!this.props.isOwner && this.state.ownerPlaying.length !== 0){
-          console.log("CUR URI: " + this.state.userUri[0]);
 
           if(this.state.userUri.length===0){
             this.getURI(this.props.token);
@@ -96,7 +95,6 @@ class Group extends Component{
           success: () => {
             this.getURI(this.props.token);
             this.setState({sync:false});
-            console.log("Songs Synced");
           }
         });
       }
@@ -224,7 +222,6 @@ class Group extends Component{
                 <img src={topRight} className="Group-logoRight" alt="logo"/> 
                 {this.getCurrentlyPlaying(this.props.ownerToken)}
                 <div className='Group-player'>
-                    {console.log(this.state.uri)}
                     <Player
                       item={this.state.item}
                       uri={this.state.uri}

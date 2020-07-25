@@ -35,7 +35,6 @@ class CreateGroup extends Component{
         fetch('https://listen-together-api.herokuapp.com/Groups/getData')
           .then((data) => data.json())
           .then((res) => this.setState({ data: res }))
-          .then(console.log(this.state.data));
       };
 
       handleGroup = () => {
@@ -67,7 +66,6 @@ class CreateGroup extends Component{
             }),
             contentType: 'application/json; charset=UTF-8',
             success: () => {
-              console.log("New Group Made: " + this.props.group);
               this.props.setOwnerToken(this.props.token);
               this.props.history.push('/group');
             },

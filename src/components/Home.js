@@ -33,7 +33,6 @@ class Home extends Component {
       },
       success: data => {
           this.props.setUsername(data.display_name);
-          console.log(data.display_name)
       },
     });
   }
