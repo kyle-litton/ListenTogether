@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "./static/css/main.ab4a2a25.chunk.css",
-    "main.js": "./static/js/main.248e62e5.chunk.js",
-    "main.js.map": "./static/js/main.248e62e5.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.350c7f48.js",
-    "runtime-main.js.map": "./static/js/runtime-main.350c7f48.js.map",
-    "static/css/2.627926fe.chunk.css": "./static/css/2.627926fe.chunk.css",
-    "static/js/2.de343a17.chunk.js": "./static/js/2.de343a17.chunk.js",
-    "static/js/2.de343a17.chunk.js.map": "./static/js/2.de343a17.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.cdc786d6586d78401d0be751b60e9e7b.js": "./precache-manifest.cdc786d6586d78401d0be751b60e9e7b.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/2.627926fe.chunk.css.map": "./static/css/2.627926fe.chunk.css.map",
-    "static/css/main.ab4a2a25.chunk.css.map": "./static/css/main.ab4a2a25.chunk.css.map",
-    "static/js/2.de343a17.chunk.js.LICENSE.txt": "./static/js/2.de343a17.chunk.js.LICENSE.txt",
-    "static/media/Player.css": "./static/media/Aromatron-Regular.eb9ba4d7.ttf",
-    "static/media/devices.png": "./static/media/devices.a3bb48b9.png",
-    "static/media/logo.png": "./static/media/logo.f4b3fff4.png",
-    "static/media/topLeft.png": "./static/media/topLeft.7b0b5f12.png",
-    "static/media/topRight.png": "./static/media/topRight.81a215e0.png"
+    "main.css": "/ListenTogether/static/css/main.35979893.chunk.css",
+    "main.js": "/ListenTogether/static/js/main.b0999ff4.chunk.js",
+    "main.js.map": "/ListenTogether/static/js/main.b0999ff4.chunk.js.map",
+    "runtime-main.js": "/ListenTogether/static/js/runtime-main.8a5f5dac.js",
+    "runtime-main.js.map": "/ListenTogether/static/js/runtime-main.8a5f5dac.js.map",
+    "static/css/2.627926fe.chunk.css": "/ListenTogether/static/css/2.627926fe.chunk.css",
+    "static/js/2.de343a17.chunk.js": "/ListenTogether/static/js/2.de343a17.chunk.js",
+    "static/js/2.de343a17.chunk.js.map": "/ListenTogether/static/js/2.de343a17.chunk.js.map",
+    "index.html": "/ListenTogether/index.html",
+    "precache-manifest.f13485561aae9c41bb501ad611c8e6a0.js": "/ListenTogether/precache-manifest.f13485561aae9c41bb501ad611c8e6a0.js",
+    "service-worker.js": "/ListenTogether/service-worker.js",
+    "static/css/2.627926fe.chunk.css.map": "/ListenTogether/static/css/2.627926fe.chunk.css.map",
+    "static/css/main.35979893.chunk.css.map": "/ListenTogether/static/css/main.35979893.chunk.css.map",
+    "static/js/2.de343a17.chunk.js.LICENSE.txt": "/ListenTogether/static/js/2.de343a17.chunk.js.LICENSE.txt",
+    "static/media/Player.css": "/ListenTogether/static/media/Aromatron-Regular.eb9ba4d7.ttf",
+    "static/media/devices.png": "/ListenTogether/static/media/devices.a3bb48b9.png",
+    "static/media/logo.png": "/ListenTogether/static/media/logo.f4b3fff4.png",
+    "static/media/topLeft.png": "/ListenTogether/static/media/topLeft.7b0b5f12.png",
+    "static/media/topRight.png": "/ListenTogether/static/media/topRight.81a215e0.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.350c7f48.js",
+    "static/js/runtime-main.8a5f5dac.js",
     "static/css/2.627926fe.chunk.css",
     "static/js/2.de343a17.chunk.js",
-    "static/css/main.ab4a2a25.chunk.css",
-    "static/js/main.248e62e5.chunk.js"
+    "static/css/main.35979893.chunk.css",
+    "static/js/main.b0999ff4.chunk.js"
   ]
 }
