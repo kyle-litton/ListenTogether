@@ -5,12 +5,12 @@ import CreateGroup from '../components/CreateGroup';
 import Group from '../components/Group';
 
 const AppRouter = () => (
-  <BrowserRouter>
+  <BrowserRouter basename={process.env.PUBLIC_URL}>
     <div>
       <Switch>
-        <Route path= {process.env.PUBLIC_URL + "/"} component={Home} exact={true}/>
-        <Route path= {process.env.PUBLIC_URL + "/start"} component={CreateGroup} />
-        <Route path= {process.env.PUBLIC_URL + '/group'} component={Group} />
+        <Route path= "/" component={Home} exact={true}/>
+        <Route path= "/start" component={CreateGroup} />
+        <Route path= '/group' component={Group} />
       </Switch>
     </div>
   </BrowserRouter>
