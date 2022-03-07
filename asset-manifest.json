@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ListenTogether/static/css/main.35979893.chunk.css",
-    "main.js": "/ListenTogether/static/js/main.20ad7008.chunk.js",
-    "main.js.map": "/ListenTogether/static/js/main.20ad7008.chunk.js.map",
+    "main.css": "/ListenTogether/static/css/main.6995b0cc.chunk.css",
+    "main.js": "/ListenTogether/static/js/main.81a4e3c7.chunk.js",
+    "main.js.map": "/ListenTogether/static/js/main.81a4e3c7.chunk.js.map",
     "runtime-main.js": "/ListenTogether/static/js/runtime-main.8a5f5dac.js",
     "runtime-main.js.map": "/ListenTogether/static/js/runtime-main.8a5f5dac.js.map",
     "static/css/2.627926fe.chunk.css": "/ListenTogether/static/css/2.627926fe.chunk.css",
-    "static/js/2.de343a17.chunk.js": "/ListenTogether/static/js/2.de343a17.chunk.js",
-    "static/js/2.de343a17.chunk.js.map": "/ListenTogether/static/js/2.de343a17.chunk.js.map",
+    "static/js/2.3d5ed79e.chunk.js": "/ListenTogether/static/js/2.3d5ed79e.chunk.js",
+    "static/js/2.3d5ed79e.chunk.js.map": "/ListenTogether/static/js/2.3d5ed79e.chunk.js.map",
     "index.html": "/ListenTogether/index.html",
-    "precache-manifest.a49f5850d742d9f113e77bff73270e77.js": "/ListenTogether/precache-manifest.a49f5850d742d9f113e77bff73270e77.js",
+    "precache-manifest.665c1c0985ec5dac90fdcca075febd57.js": "/ListenTogether/precache-manifest.665c1c0985ec5dac90fdcca075febd57.js",
     "service-worker.js": "/ListenTogether/service-worker.js",
     "static/css/2.627926fe.chunk.css.map": "/ListenTogether/static/css/2.627926fe.chunk.css.map",
-    "static/css/main.35979893.chunk.css.map": "/ListenTogether/static/css/main.35979893.chunk.css.map",
-    "static/js/2.de343a17.chunk.js.LICENSE.txt": "/ListenTogether/static/js/2.de343a17.chunk.js.LICENSE.txt",
+    "static/css/main.6995b0cc.chunk.css.map": "/ListenTogether/static/css/main.6995b0cc.chunk.css.map",
+    "static/js/2.3d5ed79e.chunk.js.LICENSE.txt": "/ListenTogether/static/js/2.3d5ed79e.chunk.js.LICENSE.txt",
     "static/media/Player.css": "/ListenTogether/static/media/Aromatron-Regular.eb9ba4d7.ttf",
     "static/media/devices.png": "/ListenTogether/static/media/devices.a3bb48b9.png",
     "static/media/logo.png": "/ListenTogether/static/media/logo.f4b3fff4.png",
@@ -23,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.8a5f5dac.js",
     "static/css/2.627926fe.chunk.css",
-    "static/js/2.de343a17.chunk.js",
-    "static/css/main.35979893.chunk.css",
-    "static/js/main.20ad7008.chunk.js"
+    "static/js/2.3d5ed79e.chunk.js",
+    "static/css/main.6995b0cc.chunk.css",
+    "static/js/main.81a4e3c7.chunk.js"
   ]
 }
