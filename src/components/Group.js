@@ -185,7 +185,7 @@ class Group extends Component{
             <div className="loader"></div>
           
             <p className="Home-p">
-            Created By Kyle Litton. <a className="Home-credit" href='https://github.com/jkl1999/ListenTogether'>View Source</a>
+            Created By Kyle Litton. <a className="Home-credit" href='https://github.com/kyle-litton/ListenTogether'>View Source</a>
             </p>
             </header>
             
@@ -241,7 +241,7 @@ class Group extends Component{
                       />;
                   </div>
                 <p className="Home-p">
-                Created By Kyle Litton. <a className="Home-credit" href='https://github.com/jkl1999/ListenTogether'>View Source</a>
+                Created By Kyle Litton. <a className="Home-credit" href='https://github.com/kyle-litton/ListenTogether'>View Source</a>
                 </p>
                 </header>
                 
@@ -278,7 +278,7 @@ class Group extends Component{
                       />;
                   </div>
                 <p className="Home-p">
-                Created By Kyle Litton. <a className="Home-credit" href='https://github.com/jkl1999/ListenTogether'>View Source</a>
+                Created By Kyle Litton. <a className="Home-credit" href='https://github.com/kyle-litton/ListenTogether'>View Source</a>
                 </p>
                 </header>
                 
